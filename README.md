@@ -2,7 +2,7 @@
 An out-of-sample linear regression model nowcasting quarterly Greek GDP using real-time Google Trends search data.
 # Nowcasting Greek GDP via Google Trends 📈🇬🇷
 
-**Author:** [Your Name]  
+**Author:** George Kosmas  
 **Language:** R  
 **Core Packages:** `tidyverse`, `zoo`, `lubridate`, `broom`, `ggplot2`
 
